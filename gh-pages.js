@@ -6,10 +6,10 @@ publish(
 	'build', // path to public directory
 	{
 		branch: 'gh-pages',
-		repo: 'https://github.com/el3um4s/memento-sveltekit-and-github-pages.git', // Update to point to your repository
+		repo: 'https://github.com/milrosen/pfaucet.git',
 		user: {
-			name: 'Samuele de Tomasi', // update to use your name
-			email: 'samuele@stranianelli.com' // Update to use your email
+			name: 'Milton Rosenabum',
+			email: 'milton.rosenbaum@gmail.com'
 		},
 		dotfiles: true
 	},
